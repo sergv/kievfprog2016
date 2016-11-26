@@ -1,0 +1,17 @@
+*.o
+*.hi
+auto/**
+*.log
+
+*.aux
+*.nav
+*.out
+*.ptb
+*.snm
+*.tex
+*.tox
+*.vrb
+*.toc
+
+.cabal-sandbox
+cabal.sandbox.config
