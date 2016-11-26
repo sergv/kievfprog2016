@@ -281,7 +281,7 @@ parts (c:cs)  =
 \end{code}
 
 % Example
-|parts "abc" =>| \eval{parts "abcd"}
+|parts "abcd" =>| \eval{parts "abcd"}
 
 \end{frame}
 
@@ -380,7 +380,7 @@ parts (c:cs)  =
           ]
         ]
       [.Seq
-        \node{Sym a};
+        \node[draw]{Sym a};
         \node{Sym c};
         ]
     ]
